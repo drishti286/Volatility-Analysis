@@ -1,4 +1,4 @@
-##Volatility Analysis
+**Volatility Analysis
 #Overview
 This project implements a research paper that introduces a novel volatility estimator derived from multiple periods of high, low, open, and close prices within a historical time series. The proposed estimator offers several significant advantages over traditional methods, making it a valuable tool for financial analysts and researchers.
 
